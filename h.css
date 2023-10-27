@@ -1,0 +1,11 @@
+h1{color:red;background-color:white;
+text-align:center;
+}
+span{color:purple;}
+.heading{color:red;
+background-color:yellow; text-align:center;}
+.ball{color:red; text-align:center;
+background-color:yellow;}
+img {border:3px solid red;}
+li{margin-right:20px;}
+div{border:3px solid blue;background-color:yellow;}
